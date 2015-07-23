@@ -1,0 +1,6 @@
+; Boukhezzar.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Boukhezzar"
+
+EXPORTS
+    ; Explicit exports can go here

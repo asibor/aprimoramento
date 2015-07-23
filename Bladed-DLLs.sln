@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Jonkman-bladed", "Jonkman\Jonkman.vcproj", "{729CA859-AA83-423B-978E-812B0BC909F6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Boukhezzar-bladed", "Boukhezzar\Boukhezzar.vcproj", "{7F7C2DE6-62C8-42CA-92C6-DA88CCFD0E1D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vidal-bladed", "Vidal\Vidal.vcproj", "{D8C59864-39EA-40C6-98D1-EF39D0ED12E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{729CA859-AA83-423B-978E-812B0BC909F6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{729CA859-AA83-423B-978E-812B0BC909F6}.Debug|Win32.Build.0 = Debug|Win32
+		{729CA859-AA83-423B-978E-812B0BC909F6}.Release|Win32.ActiveCfg = Release|Win32
+		{729CA859-AA83-423B-978E-812B0BC909F6}.Release|Win32.Build.0 = Release|Win32
+		{7F7C2DE6-62C8-42CA-92C6-DA88CCFD0E1D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7F7C2DE6-62C8-42CA-92C6-DA88CCFD0E1D}.Debug|Win32.Build.0 = Debug|Win32
+		{7F7C2DE6-62C8-42CA-92C6-DA88CCFD0E1D}.Release|Win32.ActiveCfg = Release|Win32
+		{7F7C2DE6-62C8-42CA-92C6-DA88CCFD0E1D}.Release|Win32.Build.0 = Release|Win32
+		{D8C59864-39EA-40C6-98D1-EF39D0ED12E9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D8C59864-39EA-40C6-98D1-EF39D0ED12E9}.Debug|Win32.Build.0 = Debug|Win32
+		{D8C59864-39EA-40C6-98D1-EF39D0ED12E9}.Release|Win32.ActiveCfg = Release|Win32
+		{D8C59864-39EA-40C6-98D1-EF39D0ED12E9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
